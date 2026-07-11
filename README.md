@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0560-subarray-sum-equals-k](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
