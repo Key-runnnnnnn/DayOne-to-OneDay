@@ -3,15 +3,15 @@ public:
     string removeOuterParentheses(string s) {
         int n = s.size();
         string str = "";
-        stack<char> st;
+        int cnt = 0;
         for (char ch : s) {
             if (ch == '(') {
-                if (!st.empty())
+                if (cnt != 0)
                     str += ch;
-                st.push(ch);
+                cnt++;
             } else {
-                st.pop();
-                if (!st.empty())
+                cnt--;
+                if (cnt != 0)
                     str += ch;
             }
         }
