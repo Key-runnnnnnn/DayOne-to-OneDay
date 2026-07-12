@@ -4,21 +4,17 @@ public:
         if (s.size() != t.size())
             return false;
 
-        unordered_map<char, int> mp;
+        int freq[26] = {0};
 
         for (char ch : s)
-            mp[ch]++;
+            freq[ch - 'a']++;
 
         for (char ch : t) {
-            if (mp.find(ch) == mp.end())
+            freq[ch - 'a']--;
+            if (freq[ch - 'a'] < 0)
                 return false;
-
-            mp[ch]--;
-
-            if (mp[ch] == 0)
-                mp.erase(ch);
         }
 
-        return mp.empty();
+        return true;
     }
 };
