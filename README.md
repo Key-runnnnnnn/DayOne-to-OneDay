@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0145-binary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
