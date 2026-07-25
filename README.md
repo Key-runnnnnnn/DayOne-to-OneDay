@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0148-sort-list) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0451-sort-characters-by-frequency) |
