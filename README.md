@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0054-spiral-matrix) |
@@ -212,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0225-implement-stack-using-queues) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
