@@ -217,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0035-search-insert-position) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
