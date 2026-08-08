@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0053-maximum-subarray) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0142-linked-list-cycle-ii) |
