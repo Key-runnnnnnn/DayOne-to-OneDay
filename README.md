@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0496-next-greater-element-i](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
