@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0048-rotate-image) |
+| [0509-fibonacci-number](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0509-fibonacci-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0496-next-greater-element-i) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
