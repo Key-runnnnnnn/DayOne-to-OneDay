@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1021-remove-outermost-parentheses) |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
