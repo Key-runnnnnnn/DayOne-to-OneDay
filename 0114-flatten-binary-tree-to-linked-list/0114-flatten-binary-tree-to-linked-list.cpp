@@ -6,28 +6,25 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 private:
-    void preorder(TreeNode* root, vector<TreeNode*>& nodes){
-        if(!root) return;
-        nodes.push_back(root);
-        preorder(root->left,nodes);
-        preorder(root->right,nodes);
+    void f(TreeNode* root, TreeNode*& prev) {
+        if (!root)
+            return;
+        f(root->right, prev);
+        f(root->left, prev);
+        root->right = prev;
+        root->left = nullptr;
+        prev = root;
     }
+
 public:
     void flatten(TreeNode* root) {
-        vector<TreeNode*> nodes;
-        preorder(root,nodes);
-        int n= nodes.size();
-        if (n == 0) return;
-        for(int i = 0;i<n-1;i++){
-            nodes[i]->left = nullptr;
-            nodes[i]->right = nodes[i+1];
-        }
-        nodes[n-1]->left = nullptr;
-        nodes[n-1]->right = nullptr;
+        TreeNode* prev = nullptr;
+        f(root, prev);
     }
 };
