@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0912-sort-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0509-fibonacci-number) |
+| [0931-minimum-falling-path-sum](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0931-minimum-falling-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0073-set-matrix-zeroes) |
+| [0931-minimum-falling-path-sum](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0931-minimum-falling-path-sum) |
 ## Math
 |  |
 | ------- |
