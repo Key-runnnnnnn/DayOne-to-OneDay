@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1463-cherry-pickup-ii) |
 ## Divide and Conquer
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1463-cherry-pickup-ii) |
 ## Hash Table
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0073-set-matrix-zeroes) |
 | [0931-minimum-falling-path-sum](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1463-cherry-pickup-ii) |
 ## Math
 |  |
