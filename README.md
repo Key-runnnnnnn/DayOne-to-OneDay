@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0912-sort-an-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -412,4 +414,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Key-runnnnnnn/DayOne-to-OneDay/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
